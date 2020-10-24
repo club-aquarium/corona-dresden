@@ -4,13 +4,13 @@
 # Anordnung von Hygieneauflagen zur Verhinderung der Verbreitung des Corona-Virus
 # Bekanntmachung des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt
 
-### vom 29. September 2020, Az.: 15-5422/22
+### vom 21. Oktober 2020, Az.: 15-5422/22
 
 Das Sächsische Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt erlässt auf der Grundlage von § 28 Abs. 1 Satz 1 Infektionsschutzgesetz (IfSG) vom 20. Juli 2000 (BGBl. I S. 1045), der zuletzt durch Art. 2 des Gesetzes vom 19. Mai 2020 (BGBl. I S. 1018) geändert worden ist, folgende
 
 ## Allgemeinverfügung
 
-Zur Verhinderung der Verbreitung des Corona-Virus bei der weiteren Lockerung der anlässlich der Corona-Pandemie erlassenen Maßnahmen werden folgende Regelungen getroffen:
+Zur Verhinderung der Verbreitung des Corona-Virus und mit Bezug auf die aktuell steigenden Infektionszahlen werden folgende Regelungen getroffen:
 
  1. Allgemeines
 
@@ -18,11 +18,12 @@ Zur Verhinderung der Verbreitung des Corona-Virus bei der weiteren Lockerung der
 
           * Alle Gebote und Regeln, die derzeit im öffentlichen Raum gelten, sind, soweit möglich, auch innerhalb von Einrichtungen umzusetzen.
             Es wird auf die Verordnung des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt zum Schutz vor dem Coronavirus SARS-CoV-2 und COVID-19 (Sächsische Corona-Schutz-Verordnung – SächsCoronaSchVO) in der Fassung
-            vom 25. August 2020 Bezug genommen.
+            21. Oktober 2020 Bezug genommen.
+            Zusätzliche regionale Beschränkungen, die durch die Oberbürgermeister und Landräte erlassen werden, sind zu beachten.
           * Nur Personen ohne COVID-19-Verdacht dürfen Betriebe, Einrichtungen bzw. Angebote und Feierlichkeiten besuchen bzw. nutzen.
           * Die Husten- und Niesetikette ist zu beachten und einzuhalten.
           * Über die SächsCoronaSchVO hinaus wird in geschlossenen Räumen das Tragen einer Mund-Nasen-Bedeckung dringend empfohlen,
-            wenn der Mindestabstand von 1,5 Metern nicht eingehalten werden kann.
+            wenn ein regelmäßiges intensives Lüften und die Einhaltung eines Mindestabstands von 1,5 Metern nicht gewährleistet werden können.
             § 1 Abs. 2 Satz 3 bis 5 SächsCoronaSchVO gilt entsprechend; dies ist bei der Aufstellung von Hygienekonzepten zu berücksichtigen.
           * Abstandsmarkierungen auf dem Boden können als Orientierung hilfreich sein.
             Auf die Abstandsregelungen ist ggf. auch vor dem Gebäude hinzuweisen.
@@ -32,17 +33,13 @@ Zur Verhinderung der Verbreitung des Corona-Virus bei der weiteren Lockerung der
           * Auf Hinweisschildern/-plakaten sollten alle Hygienevorgaben, die an dem jeweiligen Ort gelten, prägnant und übersichtlich dargestellt werden, ggf. unter Verwendung von Piktogrammen.
           * Es sind Vorkehrungen zu treffen, dass sich alle Personen nach dem Betreten der unter Ziffer II genannten Orte die Hände waschen bzw. desinfizieren können.
           * Dem häufigen Händewaschen und ggf. Desinfizieren ist der Vorzug gegenüber dem Tragen von Einmalhandschuhen zu geben.
-          * Möglichkeiten der freiwilligen Gäste- und Besucherregistrierung sollten vorgehalten werden, um eine Kontaktverfolgung zu erleichtern.
-          * Bargeldlose Zahlung wird empfohlen; weitere interaktive Aktionen mit zusätzlichen Kontakten (Tastenbedienung, Touchscreens usw.) sind zu vermeiden.
+          * Auch unterhalb der Inzidenzschwelle nach § 7 Abs. 2 Corona-Schutz-VO sind Möglichkeiten der freiwilligen Gäste- und Besucherregistrierung vorzuhalten, um eine Kontaktverfolgung zu erleichtern, soweit keine verpflichtende Besucherregistrierung vorgeschrieben ist.
           * Genutzte Räume sind häufig gründlich zu lüften.
-          * Aufenthalten und Aktivitäten im Freien ist gegenüber geschlossenen Räumen der Vorzug zu geben.
-          * Eine verantwortliche Person für die Einhaltung der Hygiene- und Infektionsschutzanforderungen ist zu benennen.
+          * In Betrieben, Geschäften und öffentlichen Einrichtungen ist eine verantwortliche Person für die Einhaltung der Hygiene- und Infektionsschutz-anforderungen zu benennen.
           * Arbeitgeber haben auf der Grundlage einer aktualisierten Gefährdungsbeurteilung besondere Arbeitsschutzmaßnahmen durchzuführen.
-            Dabei ist
+            Dabei sind
             der vom Bundesministerium für Arbeit und Soziales veröffentlichte SARS-CoV-2-Arbeitsschutzstandard und, soweit vorhanden, dessen branchenspezifische Anpassung durch den zuständigen Unfallversicherungsträger oder die Aufsichtsbehörde
-            zu berücksichtigen.
-          * In den gemäß § 4 Abs. 2 der SächsCoronaSchVO zu erstellenden Konzepten sind vorhandene aktuelle branchenspezifische bzw. Konzepte von Fachverbänden zu beachten.
-          * Einrichtungen und Betreiber von Angeboten gemäß § 4 Abs. 4 SächsCoronaSchVO müssen ihre Konzepte von den zuständigen kommunalen Behörden genehmigen lassen.
+            sowie die einschlägigen Empfehlungen des Robert-Koch-Institutes zum Infektionsschutz in ihrer jeweiligen Fassung und ergänzend Konzepte und Empfehlungen der Fachverbände zu berücksichtigen.
           * Die Nutzung der Corona-Warn-App wird dringend empfohlen.
 
      1. Klimaanlagen, Raumluftanlagen
@@ -73,8 +70,12 @@ Zur Verhinderung der Verbreitung des Corona-Virus bei der weiteren Lockerung der
             Für Gastronomiebetriebe gelten darüber hinaus aktuelle branchenübliche Konzepte und Standards.
           * In den Hygienekonzepten der Einrichtungen sind Festlegungen zur Mund-Nasen-Bedeckung des Personals mit Kundenkontakt zu treffen.
             Das Tragen einer Mund-Nasen-Bedeckung wird im unmittelbaren Kundenkontakt dringend empfohlen,
-            wenn keine anderen Schutzmaßnahmen möglich sind.
+            wenn keine anderen wirksamen Schutzmaßnahmen (durchsichtige Trennwände bzw. Barrieren, Abstand) gegeben sind.
+            Kunststoffvisiere und Vergleichbares gelten nicht als Mund-Nasenbedeckung im Sinne dieser Allgemeinverfügung.
           * Gastronomiebetriebe, Hotels und Beherbergungsstätten müssen Besucher im Eingangsbereich mit Hinweistafeln oder Piktogrammen auf die Hygieneregeln nach dem Hygiene- und Infektionsschutzkonzept hinweisen.
+          * Bei Imbiss- oder Lebensmittelverkaufsständen sind die Regelungen für Geschäfte und Läden beachten, soweit nicht der unmittelbare Verzehr von Speisen und Getränken betroffen ist: In Warteschlangen ist ein Abstand von 1,5 Metern einzuhalten, innerhalb von geschlossenen Räumen ist eine Mund-Nase-Bedeckung zu tragen; außerhalb geschlossener Räume wird dies empfohlen.
+          * Auf Wochenmärkten, auf denen die Einhaltung eines Mindestabstands nicht dauerhaft gewährleistet ist, besteht die Verpflichtung zum Tragen einer Mund-Nase-Bedeckung.
+            Dies ist im Hygienekonzept der Betreiber zu berücksichtigen und von diesen vor Ort durchzusetzen.
           * In Innenräumen ist ein Abstand von mindestens 1,5 Metern zwischen den belegten Tischen einzuhalten.
           * Besondere Sorgfalt ist auf die Einhaltung hygienischer Kriterien bei Reinigungs- und Spülvorgängen von Geschirr, Gläsern und Besteck zu legen.
             Geschirr, Gläser und Besteck müssen vor der Wiederverwendung vollständig trocken sein.
@@ -87,10 +88,10 @@ Zur Verhinderung der Verbreitung des Corona-Virus bei der weiteren Lockerung der
           * Grundsätzlich sind beim Umgang mit Lebensmitteln in diesen Betrieben die allgemeinen Regeln der Lebensmittelhygiene bei der Zubereitung, der Abgabe sowie dem Transport von Lebensmitteln und der Hygiene des Alltags zu beachten.
             Regelmäßiges Händewaschen ist unbedingt sicherzustellen.
           * Im Eingangsbereich zum Gastraum, in gastronomisch genutzten Außenbereichen und auf den Toiletten sind Desinfektionsspender aufzustellen.
-          * Aus hygienischen Gründen wird die bargeldlose Bezahlung empfohlen.
-          * Personen mit COVID-19-Verdacht oder einem positiven Coronavirus-Nachweis ist die Tätigkeit in den genannten Einrichtungen untersagt.
-            Nach einem positiven Coronavirus-Nachweis sind vor Wiederaufnahme der Tätigkeit eine mindestens 14-tägige Quarantäne und Symptomfreiheit seit mindestens 48 Stunden nachzuweisen.
+          * Kontaktpersonen zu mit SARS-Cov-2 Infizierten ist die Tätigkeit in den genannten Einrichtungen innerhalb von 14 Tagen untersagt.
+          * Nach einem positiven Coronavirus-Nachweis ist die Aufnahme der Tätigkeit erst nach einer Isolierung von 10 Tagen und mindestens 48-stündiger Symptomfreiheit gestattet.
             Sonstige Tätigkeits- und Beschäftigungsverbote gemäß IfSG bleiben davon unberührt.
+            oder einem positiven Coronavirus-Nachweis.
           * In Spielzimmern oder Spielecken für Kinder in gastronomischen Einrichtungen sollte auf den Mindestabstand zwischen Kindern verschiedener Hausstände geachtet werden.
             Nach Benutzung sollten die Hände gewaschen werden.
             Ausschließlich gut zu reinigendes Spielzeug sollte zur Verfügung stehen.
@@ -98,10 +99,10 @@ Zur Verhinderung der Verbreitung des Corona-Virus bei der weiteren Lockerung der
             Dazu gehört auch die Reinigung des Glaskörpers mit einem desinfizierenden Reinigungsmittel.
             Nach dem Reinigen muss der Glaskörper vollkommen getrocknet werden.
             Erst unmittelbar vor der nächsten Nutzung darf der Glaskörper wieder mit Wasser gefüllt werden.
-          * Gastronomiebetriebe, Hotels und Beherbergungsstätten dürfen keine Tanzlustbarkeiten anbieten.
+          * Gastronomiebetriebe, Hotels und Beherbergungsstätten dürfen in geschlossenen Räumen keine organisierten Tanzlustbarkeiten durchführen.
+            Ausgenommen sind organisierte Tanzveranstaltungen von Tanzschulen und Tanzvereinen nach § 4 Abs. 1 Satz 1 SächsCoronaSchVO.
+            Werden organisierte Tanzlustbarkeiten unter freiem Himmel durchgeführt, sind hierfür die nach Ziffer II.10, 6. Anstrich vorgeschriebenen, darüberhinausgehenden speziellen Hygieneregeln zu beachten.
           * Personal ist in Bezug auf die Einhaltung der Hygieneregeln während der Corona-Pandemie aktenkundig zu schulen und zu belehren.
-          * Eine Belegung von Schlafräumen ist nur im Sinne von § 2 Absatz 2 SächsCoronaSchVO zulässig.
-            Dies gilt nicht für Beherbergungsstätten bei Maßnahmen zur Kinder- und Jugenderholung in Bezug auf feste, wiederkehrende Gruppen im Sinne des § 2 Absatz 5 Satz 4 SächsCoronaSchVO.
           * Bei der Unterbringung in Sammelunterkünften ist die Einhaltung des vom Bundesministerium für Arbeit und Soziales veröffentlichten SARS-CoV-2-Arbeitsschutzstandards zu gewährleisten.
             Müssen Bereiche in den Unterkünften dennoch von unterschiedlichen Personen genutzt werden, z. B. Aufenthaltsbereiche, Sanitärräume und Küchen, sind, wenn der Mindestabstand von 1,5 Metern nicht gewährleitet werden kann, durch organisatorische Maßnahmen Kontakte zwischen den einzelnen Personen zu vermeiden.
             Geeignet sind z.B. unterschiedliche Nutzungszeiten, die im Voraus festgelegt werden.
@@ -110,27 +111,31 @@ Zur Verhinderung der Verbreitung des Corona-Virus bei der weiteren Lockerung der
 
      1. Hygieneregeln für Geschäfte und Läden aller Art
 
-          * Gemäß § 2 Abs. 7 Satz 1 Nr. 3 und Satz 3 SächsCoronaSchVO
+          * Gemäß § 2 Abs. 7 Satz 1c und Satz 3 SächsCoronaSchVO
             haben das Personal im Kundenkontakt, soweit keine anderen Schutzmaßnahmen (z. B. Acrylglasscheiben) ergriffen wurden, und die Kunden beim Aufenthalt im Geschäft eine Mund-Nasen-Bedeckung zu tragen.
           * Im Eingangsbereich sind Desinfektionsmittel für die Kunden zum Gebrauch bereitzustellen und auf deren Benutzung mittels Schildern hinzuweisen.
             Kunden sind durch Aushang darauf hinzuweisen, dass ein Betreten des Ladengeschäftes mit COVID-19-Verdacht nicht gestattet ist.
             Kassen mit Mitarbeiterbedienung sind durch Vorrichtungen (z.B. Acrylglasscheiben) abzuschirmen.
             Flächen und Gegenstände, die häufig von Kunden berührt werden, darunter Griffe von Einkaufskörben und -wagen, sollten regelmäßig
-            – mindestens 2x arbeitstäglich, wenn möglich aber nach jeder Benutzung durch einen Kunden -
+            – mindestens 2x arbeitstäglich -
             gereinigt und desinfiziert werden.
             Dazu entwickeln die Ladengeschäfte Hygienepläne unter Beachtung der individuellen Gegebenheiten sowie der aktuellen branchenüblichen Standards, die auf Anfrage Kunden und Behörden zur Einsichtnahme vorzulegen sind.
           * Durch Markierungen auf dem Boden sollte die Einhaltung der Mindestabstände im Kassenbereich gewährleistet werden.
-            Soweit technisch möglich ist bargeldlose Zahlung anzubieten und zu empfehlen.
+            Soweit technisch möglich ist bargeldlose Zahlung anzubieten.
           * In Abhängigkeit der Größe des Ladens oder Geschäftes und der räumlichen Gegebenheiten legen die verantwortlichen Personen Obergrenzen für die zeitgleich im Ladengeschäft tolerierbare Kundenanzahl fest, die eine sichere Einhaltung des Mindestabstands ermöglichen.
             Bei Erreichen dieser Kundenzahl ist durch Zutrittsregelungen sicherzustellen, dass die zulässige Zahl nicht überschritten wird („one in - one out“).
-          * Personen mit COVID-19-Verdacht oder einem positiven Coronavirus-Nachweis ist die Tätigkeit in den genannten Einrichtungen untersagt.
-            Nach einem positiven Coronavirus-Nachweis sind vor Wiederaufnahme der Tätigkeit eine mindestens 14-tägige Quarantäne und Symptomfreiheit seit mindestens 48 Stunden nachzuweisen.
+          * Kontaktpersonen zu mit SARS-Cov-2 Infizierten ist die Tätigkeit in den genannten Einrichtungen innerhalb von 14 Tagen untersagt.
+          * Nach einem positiven Coronavirus-Nachweis ist die Aufnahme der Tätigkeit erst nach einer Isolierung von 10 Tagen und mindestens 48-stündiger Symptomfreiheit gestattet.
             Sonstige Tätigkeits- und Beschäftigungsverbote gemäß IfSG bleiben davon unberührt.
+            oder einem positiven Coronavirus-Nachweis.
+
           * Personal ist in Bezug auf die Einhaltung der Hygieneregeln während der Corona-Pandemie aktenkundig zu schulen und zu belehren.
+
+            sollte eine Obergrenze für die Anzahl der zeitgleich anwesenden Personen im Konzept festgelegt werden, die die Einhaltung des Mindestabstandes ermöglicht.
 
         Darüberhinausgehende spezielle Hygieneregeln im Lebensmitteleinzelhandel
 
-          * Werden lose Lebensmittel
+          * Werden lose, unverpackte Lebensmittel
             in Selbstbedienung abgegeben, die vor Verzehr nicht gewaschen oder geschält werden, sind Entnahmezangen oder vergleichbare Hilfsmittel oder Einweghandschuhe durch die Kunden zu verwenden.
             Entnahmezangen oder vergleichbare Hilfsmittel sind regelmäßig zu reinigen oder zu desinfizieren.
 
@@ -168,15 +173,17 @@ Zur Verhinderung der Verbreitung des Corona-Virus bei der weiteren Lockerung der
             • Bei Blasinstrumenten ist das Kondenswasser aufzufangen.
             Benutzte Einmaltücher sind in reißfesten Müllsäcken zu sammeln und zu entsorgen.
             Textile Tücher sind nach der Nutzung entsprechend zu waschen.
+
           * Nach jeder Unterrichtseinheit, Probe oder Aufführung ist gründlich zu lüften.
 
      1. Hygieneregeln für Einrichtungen des Gesundheits- und Sozialwesens
 
+          * Beim Aufenthalt in Einrichtungen nach § 23 Absatz 3 Satz 1 (ambulante und stationäre medizinische Einrichtungen) sowie § 36 Absatz 1 Nummer 2 (voll- oder teilstationäre Einrichtungen zur Betreuung und Unterbringung älterer, behinderter oder pflegebedürftiger Menschen) des Infektionsschutzgesetzes sind Mund-Nasen-Bedeckungen zu tragen. Ausgenommen sind die konkreten Behandlungsräume sowie die stationär aufgenommenen Patienten und Bewohner in ihren Zimmer.
           * Die einschlägigen Empfehlungen der Kommission für Krankenhaushygiene und Infektionsprävention sowie des Robert Koch-Instituts
-            sollten beachtet werden.
+            sind zu beachten.
           * Krankenhäuser, Vorsorge- oder Rehabilitationseinrichtungen, in denen eine den Krankenhäusern vergleichbare medizinische Versorgung erfolgt, alle weiteren Einrichtungen des Gesundheitswesens, inklusive Praxen humanmedizinischer Heilberufe, ambulante Pflegedienste, voll- oder teilstationäre Einrichtungen zur Betreuung und Unterbringung älterer, behinderter oder pflegebedürftiger Menschen sowie Heime für minderjährige Personen müssen gem. §§ 23 bzw. 36 Infektionsschutzgesetz in Hygieneplänen innerbetriebliche Verfahrensweisen zur Infektionshygiene festlegen.
             Dies umfasst auch die entsprechenden Regelungen zur Verhütung einer SARS-CoV-2-Infektion.
-            Für Einrichtungen nach § 6 Abs. 1 Nr. 1 und Nr. 2 SächsCoronaSchVO
+            Für Einrichtungen nach § 6 Abs. 1a und 1b SächsCoronaSchVO
             findet neben § 36 Abs. 1 Satz 1 Nr. 2 Infektionsschutzgesetz auch § 3 Abs. 2 Nr. 10 und Nr. 12 des Sächsischen Betreuungs- und Wohnqualitätsgesetzes Anwendung.
 
      1. Hygieneregeln für Angebote der Kinder- und Jugendhilfe und für Maßnahmen der Familien-, Kinder- und Jugenderholung
@@ -186,7 +193,7 @@ Zur Verhinderung der Verbreitung des Corona-Virus bei der weiteren Lockerung der
 
         In Angeboten der Kinder- und Jugendhilfe besteht abweichend von § 2 Absatz 2 SächsCoronaSchVO keine allgemeingültige Obergrenze bezüglich der zeitgleich anwesenden Personenzahl.
         Die Obergrenze für die zeitgleich anwesenden Personen bemisst sich an den örtlichen
-        Gegebenheiten.
+        Gegebenheiten und muss im jeweiligen Hygienekonzept festgelegt werden.
         Grundsätzlich muss die Möglichkeit gewährleistet sein, dass der Mindestabstand unter den Personen eingehalten werden kann.
         In festen wiederkehrenden Gruppen, die sich nicht nur einmalig, sondern mehrfach und in der gleichen Zusammensetzung treffen, muss der Mindestabstand nicht eingehalten werden.
         Dabei sind die Maßnahmen zur datenschutzkonformen und datensparsamen Erhebung von Kontaktdaten im Sinne von § 7 Absatz 1 Satz 4 bis 7 SächsCoronaSchVO durchzuführen.
@@ -220,7 +227,7 @@ Zur Verhinderung der Verbreitung des Corona-Virus bei der weiteren Lockerung der
         Dabei sind Regelungen im Zusammenhang mit der Rückkehr in die Einrichtung, insbesondere zu Beförderung und Arbeitsorganisation zu treffen.
 
           * Bei regelmäßigen Fahrten von Fahrdiensten zum Zwecke der Beförderung von Menschen mit Behinderungen zwischen dem Wohnort/der Wohnstätte und Einrichtungen ist eine Mund-Nasen-Bedeckung zu tragen;
-            § 1 Abs. 2 Satz 3 bis 5 SächsCoronaSchVO gilt entsprechend.
+            § 1 Abs. 2 Satz 3 bis 5 und § 2 Abs. 7a SächsCoronaSchVO gilt entsprechend.
             Das Hygienekonzept des Fahrdienstes nach § 4 Abs. 2 SächsCoronaSchVO ist mit den jeweiligen Einrichtungen abzustimmen.
 
      1. Hygieneregeln für teilstationäre Einrichtungen nach dem Elften Buch Sozialgesetzbuch (SGB XI)
@@ -279,10 +286,10 @@ Zur Verhinderung der Verbreitung des Corona-Virus bei der weiteren Lockerung der
           * In Abhängigkeit von der Größe des Bades und den räumlichen Gegebenheiten ist eine Obergrenze für die Anzahl der zeitgleich anwesenden Badegäste festzulegen, die die Einhaltung des Mindestabstandes ermöglicht.
           * Verhaltensregeln und Hygienevorgaben sind gegenüber den Badegästen zu kommunizieren (z. B. durch Schilder) und die Einhaltung sicherzustellen.
 
-     1. Hygieneregeln für Saunen (auch als Bestandteil von Hotels und Beherbergungsstätten)
+     1. Hygieneregeln für Saunen (auch als Bestandteil von Hotels, Beherbergungsstätten und anderen Betrieben)
 
-          * Es dürfen nur Trockensaunen mit einer Temperatur von mindestens 80°C betrieben werden;
-            Aufgüsse sind nicht gestattet.
+          * Es dürfen nur Trockensaunen mit einer Temperatur von mindestens 80°C betrieben werden.
+            In Saunen, die ohne Be- und Entlüftungsanlage betrieben werden, sind Aufgüsse nicht gestattet.
           * Dampfbäder und Dampfsaunen dürfen nicht betrieben werden.
           * Die nach §§ 1 und 2 SächsCoronaSchVO geltenden Grundsätze und Kontaktbeschränkungen gelten auch innerhalb von Saunen.
             Insbesondere ist der Mindestabstand von 1,5 Metern zu anderen Personen einzuhalten.
@@ -297,9 +304,8 @@ Zur Verhinderung der Verbreitung des Corona-Virus bei der weiteren Lockerung der
             Dabei sind die allgemeinen Regelungen dieser Allgemeinverfügung zwingend aufzunehmen.
           * Es sind Vorkehrungen zu treffen, dass sich alle Personen bei jedem Einstieg in den Bus die Hände desinfizieren.
           * Das Tragen einer Mund-Nasen-Bedeckung ist gemäß
-            § 2 Abs. 7 Satz 1 Nr. 2 SächsCoronaSchVO
-            verpflichtend, sofern nicht der Mindestabstand von 1,5 Metern eingehalten werden kann.
-          * Die Reisebusse sind häufig und gründlich bzw. permanent zu belüften.
+            § 2 Abs. 7b SächsCoronaSchVO
+            verpflichtend • Die Reisebusse sind häufig und gründlich bzw. permanent zu belüften.
 
      1. Hygieneregeln für Freizeit- und Vergnügungsparks, Volksfeste, Jahrmärkte und Weihnachtsmärkte
 
@@ -307,7 +313,13 @@ Zur Verhinderung der Verbreitung des Corona-Virus bei der weiteren Lockerung der
           * Es ist ein Hygienekonzept zu erstellen und umzusetzen.
             Dabei sind die allgemeinen Regelungen dieser Allgemeinverfügung zwingend aufzunehmen.
             Dieses Konzept muss sicherstellen, dass
-            der Mindestabstand eingehalten werden kann (z. B. Festlegungen zur räumlichen Abgrenzung, , zur Besucherzahlbeschränkung und Besucherlenkung, zu Möglichkeiten zur Begrenzung des Alkoholkonsums, zur datenschutzkonformen und datensparsamen standortbezogenen Erhebung von Kontaktdaten und zu Hygienemaßnahmen enthalten).
+            1,5 Meter Mindestabstand eingehalten werden können.
+
+            Für Bereiche, in denen Menschen dichter und länger zusammenkommen (z.B. zur Einnahme von Speisen und Getränken) sind Festlegungen zu treffen
+
+              * zur räumlichen Abgrenzung, Umzäunung u. ä,
+              * zur Besucherzahlbeschränkung und Besucherlenkung,
+              * zur datenschutzkonformen und datensparsamen Erhebung von Kontaktdaten.
 
         Die Entnahme von Lebensmitteln in Selbstbedienung ist untersagt (z. B. Senf- und Ketchup-Spender).
 
@@ -327,10 +339,14 @@ Zur Verhinderung der Verbreitung des Corona-Virus bei der weiteren Lockerung der
           * Mit dem Hygienekonzept müssen zudem die folgenden Auflagen zur Hygiene und zur Nachverfolgung von Infektionsketten umgesetzt werden: Beschränkung der Teilnehmerzahl auf zwei (1 zu 1), Mund-Nasen-Bedeckung beider Teilnehmer, Verbot gesichtsnaher Praktiken, keine Begegnung von Kunden in der Prostitutionsstätte, geeignete Desinfektions- und Waschgelegenheiten, gründliche und regelmäßige Lüftung der Räume, Reinigung bzw. Desinfektion der Arbeits- und Hilfsmittel, vorherige telefonische oder digitale Anmeldung, Erheben der Kontaktdaten der Kunden und Aufbewahrung der Kontaktdaten für 4 Wochen.
 
  1. Weitere Hygieneschutzmaßnahmen bleiben vorbehalten.
- 1. Diese Allgemeinverfügung tritt am 1. Oktober 2020 in Kraft und gilt bis einschließlich 2. November 2020.
+ 1. Diese Allgemeinverfügung tritt am 21. Oktober 2020 in Kraft und gilt bis einschließlich 25. Januar 2021.
     Gleichzeitig tritt die Allgemeinverfügung Vollzug des Infektionsschutzgesetzes Maßnahmen anlässlich der Corona-Pandemie Anordnung von Hygieneauflagen zur Verhinderung der Verbreitung des Corona-Virus Bekanntmachung des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt
-    vom 25. August 2020, Az.: 15-5422/22 außer Kraft.
- 1. Diese Allgemeinverfügung einschließlich ihrer Begründung kann eingesehen werden im Sächsischen Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt, bei Referat 15 Rechtsangelegenheiten und Beschaffungsstelle, Albertstraße 10, 01097 Dresden, montags bis freitags in der Zeit von 9 Uhr bis 15 Uhr.
+    vom 29. September 2020, Az.: 15-5422/22 außer Kraft.
+ 1. Diese Allgemeinverfügung einschließlich ihrer Begründung kann eingesehen werden im Sächsischen Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt, bei Referat 15 Rechtsangelegenheiten und Beschaffungsstelle, Albertstraße 10, 01097 Dresden,montags bis freitags in der Zeit von 9 Uhr bis 15 Uhr.
+
+## Begründung
+
+> ...
 
 ## Rechtsbehelfsbelehrung
 
@@ -357,7 +373,7 @@ Der Klage und allen Schriftsätzen sollen Abschriften für die übrigen Beteilig
     Die weiteren Maßgaben für die Übermittlung des elektronischen Dokumentes ergeben sich aus Kapitel 2 der Verordnung über die technischen Rahmenbedingungen des elektronischen Rechtsverkehrs und über das besondere elektronische Behördenpostfach (Elektronischer-Rechtsverkehr-Verordnung - ERVV).
   * Kraft Bundesrecht wird in Prozessverfahren vor den Verwaltungsgerichten infolge der Klageerhebung eine Verfahrensgebühr fällig.
 
-Dresden, den 29. September 2020
+Dresden, den 21. Oktober 2020
 
 Uwe Gaul \
 Staatssekretär \
