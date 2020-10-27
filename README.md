@@ -23,11 +23,25 @@ Auf Grund des § 32 Satz 1 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 des Inf
      1. mit Angehörigen eines weiteren Hausstandes oder
      1. mit bis zu zehn weiteren Personen.
 
+    [Unzulässige Gruppenbildung;
+    Jede Person, die vorsätzlich gegen das Verbot verstößt;
+    150 Euro][1]
+
  1. Familienfeiern (unter anderem Hochzeiten, Geburtstage, Trauerfeiern, Jubiläumsfeiern, familiäre Schulanfangsfeiern)
     in Gaststätten oder von Dritten überlassenen voneinander abgetrennten Räumlichkeiten (auch im jeweiligen Außenbereich) sind mit bis zu 100 Personen aus dem Familien-, Freundes- und Bekanntenkreis zulässig.
     Die Hygieneregelungen sollen eingehalten werden.
+
+    [Unzulässige Organisation oder Teilnahme;
+    Jede Person, die vorsätzlich gegen das Verbot verstößt;
+    150 Euro][1]
+
  1. Betriebs- und Vereinsfeiern sind mit bis zu 50 Personen zulässig.
     Die Hygieneregelungen sollen eingehalten werden.
+
+    [Unzulässige Organisation oder Teilnahme;
+    Jede Person, die vorsätzlich gegen das Verbot verstößt;
+    150 Euro][1]
+
  1. Die Träger von Angeboten der Kinder- und Jugendhilfe nach den §§ 11 bis 14, § 16, § 29 und § 32 des Achten Buches Sozialgesetzbuch - Kinder und Jugendhilfe - in der Fassung der Bekanntmachung vom 11. September 2012 (BGBl. I S. 2022), das zuletzt durch Artikel 16a Absatz 6 des Gesetzes vom 28. April 2020 (BGBl. I S. 960) geändert worden ist, haben Konzepte zu erstellen und umzusetzen, die die Einhaltung von Hygieneregelungen sicherstellen.
     Abhängig von der Größe der Einrichtung und den räumlichen Gegebenheiten muss im Konzept eine Obergrenze für die Anzahl der zeitgleich anwesenden Personen festgelegt werden, die die Einhaltung des Mindestabstandes ermöglicht.
     Wenn die Angebote in festen wiederkehrenden Gruppen mit datenschutzkonformer und datensparsamer Erhebung von Kontaktdaten im Sinne von
@@ -53,12 +67,22 @@ Auf Grund des § 32 Satz 1 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 des Inf
     Zur Glaubhaftmachung einer Befreiung von der Pflicht nach Satz 1 genügt die Vorlage eines Schwerbehindertenausweises oder ärztlichen Attests.
     Insoweit kann aus infektionsschutzrechtlichen Gründen die Benutzung und der Aufenthalt nach Satz 1 nicht versagt werden.
     Personen, die entgegen der nach Satz 1 bestehenden Pflicht keine Mund-Nasenbedeckung tragen, ist die Benutzung nach Satz 1 Nummer 1 Alternative 1 und Nummer 2 sowie der Aufenthalt nach Nummer 3 und 4 untersagt.
+
+    [Nichttragen einer Mund-Nasenbedeckung;
+    Jede Person, die vor vorsätzlich gegen das Verbot verstößt;
+    60 Euro][1]
+
  1. Abweichend von Absatz 2 ist Sportbetrieb unter Einhaltung der Hygieneregeln nach § 4 erlaubt.
  1. Zusammenkünfte und Ansammlungen im öffentlichen Raum sind abweichend von Absatz 2 bei Einhaltung des Mindestabstandes von 1,5 Metern erlaubt.
     § 5 bleibt unberührt.
     Bei Einrichtungen und Angeboten gemäß § 4 Absatz 4 Nummer 7 und bei Einrichtungen und Angeboten von Religionsgemeinschaften kann der Mindestabstand verringert werden, soweit eine verpflichtende, datenschutzkonforme und datensparsame Erhebung von Kontaktdaten im Sinne von
     § 7 Absatz 1 Satz 4 bis 7
     durchgeführt wird und geeignete Hygieneregelungen getroffen wurden.
+
+    [Nichteinhaltung Mindestabstand;
+    Jede Person, die vorsätzlich gegen das Verbot verstößt;
+    150 Euro][1]
+
  1. Über die in den Absätzen 2 bis 6 und 8 genannten Zusammenkünfte und Ansammlungen hinaus, sind Zusammenkünfte und Ansammlungen im öffentlichen Raum verboten.
 
 ## § 3 Handwerksbetriebe, Dienstleister und sonstige Betriebe, Einrichtungen, Sportstätten, Gastronomie, Hotels, Beherbergungsstätten, Geschäfte und Läden oder Angebote für den Publikumsverkehr sowie Veranstaltungen
@@ -72,11 +96,24 @@ Auf Grund des § 32 Satz 1 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 des Inf
      1. Prostitutionsveranstaltungen, Prostitutionsvermittlung, Prostitutionsfahrzeugen und
      1. Prostitutionsstätten, es sei denn, es handelt sich um die entgeltliche Erbringung sexueller Dienstleistungen ohne Geschlechtsverkehr mit von der zuständigen kommunalen Behörde genehmigtem Hygienekonzept sowie Nachverfolgungsauflagen.
 
+    [Teilnahme an nicht zulässigen Veranstaltungen und sonstigen  Ansammlungen;
+    Jede Person, die gegen das Verbot verstößt;
+    150 Euro][1]
+
+    [Organisation nicht zulässiger Veranstaltungen sowie Betreiben nicht zulässiger Angebote und Einrichtungen;
+    Jede Person, die gegen das Verbot verstößt;
+    500 Euro][1]
+
  1. Betreiber von Beherbergungsbetrieben dürfen keine Personen unterbringen, die aus einem Landkreis, einer Kreisfreien Stadt im Freistaat Sachsen oder im Bundesgebiet oder aus Stadtstaaten mit kumulativ mehr als 50 Neuinfektionen pro 100000 Einwohnern innerhalb der letzten sieben Tage anreisen oder dort ihren Wohnsitz haben.
     Sofern es sich um ein lokal eingrenzbares Infektionsgeschehen handelt und die zuständigen Behörden lediglich regional begrenzte Maßnahmen angeordnet haben, werden von dem Beherbergungsverbot ausschließlich Personen erfasst, die aus diesen regionalen Bereichen anreisen oder dort ihren Wohnsitz haben.
     Ausgenommen sind Personen, die über einen ärztlichen Befund verfügen, aus dem sich ergibt, dass eine molekularbiologische Testung keine Anhaltspunkte für das Vorliegen einer Infektion mit dem Coronavirus SARS-CoV-2 ergeben hat.
     Die Testung darf höchstens 48 Stunden vor der Anreise vorgenommen worden sein.
     Gebiete mit erhöhtem Infektionsrisiko nach Satz 1 oder 2 werden durch das Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt festgelegt und ortsüblich auf der Internetseite www.coronavirus.sachsen.de bekanntgegeben.
+
+    [Beherbergung von Personen aus einem Gebiet mit erhöhtem Infektionsrisiko;
+    Jeder Geschäfts- oder Betriebsverantwortlicher;
+    150 Euro][1]
+
  1. Wer Personen beschäftigt, die
 
      1. zum Zweck einer mindestens dreiwöchigen Arbeitsaufnahme vorübergehend in das Gebiet des Freistaates Sachsen einreisen (Saisonarbeitskräfte),
@@ -90,12 +127,29 @@ Auf Grund des § 32 Satz 1 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 des Inf
     Die Anzeige hat die Namen der Saisonarbeitskräfte, deren Unterbringungsort, Art und Zeitraum der Tätigkeit sowie die Kontaktdaten des Betriebsinhabers zu enthalten.
     Die Anzeigepflicht besteht auch, wenn die Saisonarbeitskräfte während ihres Aufenthalts in der Bundesrepublik Deutschland den Betrieb oder den Arbeitgeber wechseln.
 
+    [Beschäftigung von Saisonarbeitskräften ohne Nachweis;
+    Jeder Geschäfts- oder Betriebsverantwortliche;
+    1.000 Euro][1]
+
+    [Nichtanzeige oder nicht rechtzeitige Anzeige bei Beschäftigung von Saisonarbeitskräften;
+    Jeder Geschäfts- oder Betriebsverantwortliche;
+    500 Euro][1]
+
 ## § 4 Einhaltung von Hygieneregeln in Handwerksbetrieben, Dienstleistern und sonstigen Betrieben, Einrichtungen, Sportstätten, Gastronomie, Hotels, Beherbergungsstätten, Geschäften und Läden oder bei Angeboten für den Publikumsverkehr sowie bei Veranstaltungen
 
  1. Der SARS-CoV-2-Arbeitsschutzstandard des Bundesministeriums für Arbeit und Soziales, die SARS-CoV-2 Arbeitsschutzregel sowie vorhandene branchenspezifische Konkretisierungen der Unfallversicherungsträger beziehungsweise der Aufsichtsbehörde und die einschlägigen Empfehlungen des Robert Koch-Institutes zum Infektionsschutz in ihrer jeweiligen Fassung oder Konzepte und Empfehlungen der Fachverbände sind von Dienstleistern, in Handwerksbetrieben, sonstigen Betrieben, Einrichtungen, Sportstätten, Gastronomie, Hotels, Beherbergungsstätten, Geschäften, Läden, bei Angeboten für den Publikumsverkehr und Durchführungen von Veranstaltungen sowie organisierten Tanzveranstaltungen von Tanzschulen und Tanzvereinen zu berücksichtigen.
     Weitere Schutzvorschriften sind gemäß der Allgemeinverfügung des Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt zur Anordnung von Hygieneauflagen zur Verhinderung der Verbreitung des Corona-Virus einzuhalten.
  1. Auf der Grundlage der in Absatz 1 genannten Empfehlungen und Vorschriften ist ein eigenes schriftliches Hygienekonzept zu erstellen und umzusetzen.
     Dies soll insbesondere, soweit möglich, die Abstandsregelung zu anderen Personen sowie weitere Hygienemaßnahmen beinhalten.
+
+    [Öffnung von Veranstaltungen und Angeboten ohne Hygienekonzept;
+    Jeder Geschäfts- oder Betriebsverantwortlicher;
+    500 Euro][1]
+
+    [Nichteinhaltung des Hygienekonzepts bei Veranstaltungen und Angeboten;
+    Jeder Geschäfts- oder Betriebsverantwortlicher;
+    500 Euro][1]
+
  1. Die zuständige kommunale Behörde kann das Hygienekonzept und seine Einhaltung überprüfen.
  1. Für folgende Einrichtungen und Angebote mit einer Besucherzahl mit bis zu 1000 Personen müssen von den zuständigen kommunalen Behörden genehmigte Hygienekonzepte vor der Inbetriebnahme vorliegen:
 
@@ -130,6 +184,14 @@ Auf Grund des § 32 Satz 1 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 des Inf
  1. Der Veranstalter des Weihnachtsmarktes nimmt ab 20 Neuinfektionen auf 100000 Einwohner innerhalb von sieben Tagen vor Beginn des Weihnachtsmarktes und während der Dauer des Weihnachtsmarktes im Landkreis oder in der Kreisfreien Stadt Kontakt mit der zuständigen kommunalen Behörde auf.
     Die zuständige kommunale Behörde kann weitere Schutzmaßnahmen anordnen.
 
+[Durchführung eines Weihnachtsmarktes ohne genehmigtes Hygienekonzept;
+Jeder Geschäfts- oder Betriebsverantwortlicher;
+2.500 Euro][1]
+
+[Nichteinhaltung des Hygienekonzepts bei der Durchführung eines Weihnachtsmarktes;
+Jeder Geschäfts- oder Betriebsverantwortlicher;
+2.500 Euro][1]
+
 ## § 5 Großveranstaltungen und Sportveranstaltungen mit Publikum
 
  1. Großveranstaltungen und Sportveranstaltungen mit Publikum mit einer Besucherzahl von mehr als 1000 Personen dürfen stattfinden, wenn
@@ -145,6 +207,14 @@ Auf Grund des § 32 Satz 1 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 des Inf
     Das Verbot nach Satz 1 gilt solange, bis die Zahl der Neuinfektionen die Schwelle von 20 während mehr als sieben Tagen unterschritten ist.
     Dies gilt auch für bereits genehmigte Groß- und Sportveranstaltungen.
 
+[Durchführung von Groß- oder Sportveranstaltungen mit Publikum ohne Kontaktdatenerhebung oder ohne Hygienekonzept;
+Jeder Geschäfts- oder Betriebsverantwortlicher;
+10.000 Euro][1]
+
+[Nichteinhaltung des Hygienekonzepts bei Groß- oder Sportveranstaltungen mit Publikum;
+Jeder Geschäfts- oder Betriebsverantwortlicher;
+10.000 Euro][1]
+
 ## § 6 Besuchsregelungen für Einrichtungen des Gesundheits- und Sozialwesens
 
  1. Der Besuch folgender Einrichtungen ist unter den Voraussetzungen des Absatzes 2 zulässig:
@@ -158,6 +228,11 @@ Auf Grund des § 32 Satz 1 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 des Inf
     Die Regelungen haben insbesondere Bestimmungen zu einzuhaltenden Hygienemaßnahmen, zur Anzahl der Besucherinnen und Besucher und zur Nachverfolgbarkeit eventueller Infektionsketten zu enthalten.
     § 7 Absatz 1 Satz 4 bis 7 gilt entsprechend.
     Die Besuchsregelungen sind an das aktuelle regionale Infektionsgeschehen anzupassen und müssen in einem angemessenen Verhältnis zwischen dem Schutz der versorgten Personen und deren Persönlichkeits- und Freiheitsrechten stehen.
+
+    [Nichterstellung eines eigenständigen Konzepts;
+    Jeder Geschäfts- oder Betriebsverantwortlicher;
+    150 Euro][1]
+
  1. Werkstätten für behinderte Menschen und Angebote anderer Leistungsanbieter nach § 60 des Neunten Buches Sozialgesetzbuch vom 23. Dezember 2016 (BGBl. I S. 3234), das zuletzt durch Artikel 8 des Gesetzes vom 14. Dezember 2019 (BGBl. I S. 2789) geändert worden ist, müssen über ein Arbeitsschutz- und Hygienekonzept verfügen, das die in § 4 Absatz 1 genannten Empfehlungen und Vorschriften berücksichtigt.
     Bei Beschäftigten, die in Einrichtungen nach Absatz 1 Ziffer 2 wohnen, ist das Arbeitsschutz- und Hygienekonzept mit der jeweiligen Leitung der Wohneinrichtung der Werkstattbeschäftigten abzustimmen.
     Dabei sind Regelungen im Zusammenhang mit der Rückkehr in die Einrichtung, insbesondere zu Beförderung und Arbeitsorganisation zu treffen.
@@ -234,3 +309,5 @@ Dresden, den 29. September 2020
 
 Die Staatsministerin für Soziales und Gesellschaftlichen Zusammenhalt \
 Petra Köpping
+
+[1]: https://web.archive.org/web/20201007120001/https://www.coronavirus.sachsen.de/amtliche-bekanntmachungen.html#a-7466
