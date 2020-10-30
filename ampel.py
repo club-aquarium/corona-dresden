@@ -27,7 +27,7 @@ def take_screenshots():
 	try:
 		logging.info('loading Corona-Ampel...')
 		driver.get('https://www.dresden.de/de/leben/gesundheit/hygiene/infektionsschutz/corona.php')
-		ampel = driver.find_element_by_xpath('//*[text()="Fallzahlen (Corona-Ampel)"]')
+		ampel = driver.find_element_by_xpath('//*[text()="Fallzahlen (Corona-Dashboard)"]')
 		ampel.click()
 		ampel = ampel.find_element_by_xpath('../../..//iframe')
 
@@ -36,7 +36,7 @@ def take_screenshots():
 		day = ampel.screenshot_as_png
 
 		driver.switch_to.frame(ampel)
-		inzidenz = driver.find_element_by_xpath('//*[text()="7-Tage-Inzidenz"]')
+		inzidenz = driver.find_element_by_xpath('//*[text()="Wochenverlauf"]')
 		inzidenz.click()
 
 		driver.switch_to.default_content()
