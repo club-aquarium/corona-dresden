@@ -1,6 +1,6 @@
 # Verordnung des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt zum Schutz vor dem Coronavirus SARS-CoV-2 und COVID-19 (Sächsische Corona-Schutz-Verordnung – SächsCoronaSchVO)
 
-### Vom 30. Oktober 2020
+### Vom 10. November 2020
 
 Auf Grund des § 32 Satz 1 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 des Infektionsschutzgesetzes vom 20. Juli 2000 (BGBl. I S. 1045), von denen § 28 Absatz 1 Satz 1 und 2 durch Artikel 1 Nummer 6 des Gesetzes vom 27. März 2020 (BGBl. I S. 587) neu gefasst worden ist, in Verbindung mit § 7 der Verordnung der Sächsischen Staatsregierung und des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt zur Regelung der Zuständigkeiten nach dem Infektionsschutzgesetz und für die Kostenerstattung für Impfungen und andere Maßnahmen der Prophylaxe vom 9. Januar 2019 (SächsGVBl. S. 83), der durch die Verordnung vom 13. März 2020 (SächsGVBl. S. 82) geändert worden ist, verordnet das Sächsische Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt:
 
@@ -74,7 +74,7 @@ Auf Grund des § 32 Satz 1 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 des Inf
  1. Verboten sind die Öffnung und das Betreiben mit Ausnahme zulässiger Onlineangebote von:
 
      1. Aus- und Fortbildungseinrichtungen, die nicht der berufsbezogenen, schulischen oder akademischen Ausbildung dienen,
-     1. Freibädern, Hallenbädern, Kurbädern, Thermen soweit es sich nicht um Rehabilitationseinrichtungen handelt
+     1. Freibädern, Hallenbädern, Kurbädern, Thermen soweit es sich nicht um Rehabilitationseinrichtungen handelt,
      1. Dampfbädern, Dampfsaunen und Saunen,
      1. Fitnessstudios und ähnlichen Einrichtungen, soweit sie nicht medizinisch notwendiger Behandlungen dienen,
      1. Spielhallen, Spielbanken, Wettannahmestellen und ähnlichen Einrichtungen,
@@ -84,21 +84,23 @@ Auf Grund des § 32 Satz 1 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 des Inf
          1. für die ein Arbeitsvertrag besteht, der sie zu einer sportlichen Leistung gegen ein Entgelt verpflichtet und dieses überwiegend zur Sicherung des Lebensunterhalts dient, oder
          1. die dem Bundeskader (Olympiakader, Perspektivkader, Nachwuchskader 1) und Nachwuchskader 2 des Deutschen Olympischen Sportbundes oder dem Spitzenkader des Deutschen Behindertensportverbandes angehören oder die Kader in einem Nachwuchsleistungszentrum im Freistaat Sachsen;
 
-     1. Freizeit-, Vergnügungsparks, botanische und zoologische Gärten, Tierparks, Angeboten von Freizeitaktivitäten,
+     1. Freizeit-, Vergnügungsparks, botanischen und zoologischen Gärten, Tierparks, Angeboten von Freizeitaktivitäten,
      1. Volksfesten, Jahrmärkten, Weihnachtsmärkten,
      1. Diskotheken, Tanzlustbarkeiten,
      1. Messen, Tagungen und Kongressen,
-     1. Museen, Musikschulen, Kinos, Theatern, Opernhäusern, Konzerthäusern, Konzertveranstaltungsorten Musiktheatern, Clubs und Musikclubs und entsprechenden Einrichtungen für Publikum,
+     1. Museen, Musikschulen, Volkshochschulen, Kinos, Theatern, Opernhäusern, Konzerthäusern, Konzertveranstaltungsorten, Musiktheatern, Clubs und Musikclubs und entsprechenden Einrichtungen für Publikum,
      1. Bibliotheken, mit Ausnahme der Medienausleihe sowie mit Ausnahme von Fachbibliotheken und Bibliotheken an den Hochschulen, der Sächsischen Landes- und Universitätsbibliothek und der Deutschen Nationalbibliothek,
-     1. Angebote der Kinder- und Jugendhilfe ohne sozialpädagogische Betreuung, Einrichtungen und Angeboten der Kinder- und Jugenderholung,
+     1. Angeboten der Kinder- und Jugendhilfe ohne sozialpädagogische Betreuung, Einrichtungen und Angeboten der Kinder- und Jugenderholung,
      1. Zirkussen,
      1. Prostitutionsstätten, Prostitutionsveranstaltungen, Prostitutionsvermittlungen, Prostitutionsfahrzeugen,
-     1. Busreisen und Übernachtungsangeboten für touristische Zwecke sowie Schulfahrten,
+     1. touristischen Busreisen,
+     1. Schulfahrten,
+     1. Übernachtungsangeboten, mit Ausnahme von Übernachtungen aus notwendigen beruflichen, sozialen oder medizinischen Anlässen,
      1. Veranstaltungen, die der Unterhaltung dienen,
      1. Gastronomiebetrieben sowie Bars, Kneipen und ähnlichen Einrichtungen.
         Ausgenommen ist die Lieferung und Abholung von mitnahmefähigen Speisen und Getränken sowie der Betrieb von Kantinen und Mensen;
-     1. Betriebe im Bereich der körpernahen Dienstleistung, mit Ausnahme medizinisch notwendiger Behandlungen und von Friseuren,
-     1. alle sonstigen Institutionen und Einrichtungen, die der Freizeitgestaltung dienen.
+     1. Betrieben im Bereich der körpernahen Dienstleistung, mit Ausnahme medizinisch notwendiger Behandlungen und von Friseuren,
+     1. allen sonstigen Institutionen und Einrichtungen, die der Freizeitgestaltung dienen.
 
  1. Von dem Verbot nach Absatz 1 sind das Betreten und Arbeiten durch Betreiber und Beschäftigte nicht erfasst.
 
@@ -124,7 +126,6 @@ Auf Grund des § 32 Satz 1 in Verbindung mit § 28 Absatz 1 Satz 1 und 2 des Inf
      1. eine barrierefreie Datenerhebung
 
     zu ermöglichen.
-
 
 ## § 6 Saisonarbeitskräfte
 
@@ -180,11 +181,14 @@ Die Anzeigepflicht besteht auch, wenn die Saisonarbeitskräfte während ihres Au
 
 ## § 9 Versammlungen
 
- 1. Das Versammlungsrecht im Sinne des Sächsischen Versammlungsgesetzes vom 25. Januar 2012 (SächsGVBl. S. 54), das zuletzt durch Artikel 7 des Gesetzes vom 11. Mai 2019 (SächsGVBl. S. 358) geändert worden ist, bleibt unberührt.
- 2. Bei Versammlungen im Sinne des Absatz 1 ist das Tragen einer Mund-Nasenbedeckung verpflichtend für alle Versammlungsteilnehmer.
-    Dies gilt auch für den Versammlungsleiter und Ordner.
-    Unter freiem Himmel sind ausschließlich ortsfeste Versammlungen zulässig.
-    § 2 Absatz 2 und § 3 Absatz 2 Satz 1, 3 und 4 gelten entsprechend.
+ 1. Unter freiem Himmel sind Versammlungen im Sinne des Sächsischen Versammlungsgesetzes vom 25. Januar 2012 (SächsGVBl. S. 54), das zuletzt durch Artikel 7 des Gesetzes vom 11. Mai 2019 (SächsGVBl. S. 358) geändert worden ist, ausschließlich ortsfest und mit höchstens 1000 Teilnehmerinnen und Teilnehmern zulässig, wenn 
+
+     1. alle Versammlungsteilnehmerinnen und Versammlungsteilnehmer, die Versammlungsleiterin oder der Versammlungsleiter sowie Ordnerinnen und Ordner eine Mund-Nasenbedeckung tragen.
+        § 3 Absatz 2 gilt entsprechend;
+     1. zwischen allen Versammlungsteilnehmerinnen und Versammlungsteilnehmern ein Mindestabstand von 1,5 Metern gewahrt wird.
+
+ 1. Versammlungen mit mehr als 1000 Teilnehmerinnen und Teilnehmern können genehmigt werden, wenn durch die Anmelderin oder den Anmelder der Versammlung mittels technischer und organisatorischer Maßnahmen, die über Absatz 1 hinausgehen, das Infektionsrisiko auf ein vertretbares Maß reduziert werden kann.
+ 1. Das Sächsische Versammlungsgesetz bleibt im Übrigen unberührt.
 
 ## § 10 Vollstreckungshilfe, Ordnungswidrigkeiten
 
@@ -203,11 +207,14 @@ Die Anzeigepflicht besteht auch, wenn die Saisonarbeitskräfte während ihres Au
      1. vorsätzlich
 
          1. entgegen § 2 Absatz 1 Satz 1 sich in der Öffentlichkeit mit mehr als zwei Hausständen bis insgesamt maximal zehn Personen aufhält,
-         1. entgegen § 2 Absatz 1 Satz 2 an einer privaten Ansammlung, Zusammenkünften, Veranstaltungen sowie Feiern in eigener Häuslichkeit mit mehr als zwei Hausständen bis insgesamt maximal zehn Personen oder mit mehr als insgesamt maximal fünf Personen teilnimmt.
+         1. entgegen § 2 Absatz 1 Satz 2 an einer privaten Ansammlung, Zusammenkünften, Veranstaltungen sowie Feiern in eigener Häuslichkeit mit mehr als zwei Hausständen bis insgesamt maximal zehn Personen oder mit mehr als insgesamt maximal fünf Personen teilnimmt,
          1. entgegen § 2 Absatz 2 den Mindestabstand von 1,5 Metern nicht einhält,
-         1. entgegen § 4 Absatz 1 Einrichtungen, Betriebe oder Veranstaltungen öffnet, betreibt, durchführt, besucht oder nutzt und keine Ausnahme nach Absatz 1 Nummern 2, 4, 6, 8, 13, 19 oder 20 oder Absatz 2 oder 3 vorliegt,
+         1. entgegen § 4 Absatz 1 Einrichtungen, Betriebe oder Veranstaltungen öffnet, betreibt, durchführt, besucht oder nutzt und keine Ausnahme nach Absatz 1 Nummern 2, 4, 6, 12, 18, 20 oder 21 oder Absatz 2 vorliegt oder
+         1. entgegen § 9 Absatz 1 eine Versammlung veranstaltet, die nicht ortsfest ist oder mit mehr als 1000 Teilnehmern, ohne dass eine Ausnahme nach § 9 Absatz 2 vorliegt.
+
      1. fahrlässig oder vorsätzlich
-         1. entgegen § 3 Absatz 1 Nummer 1 bis 5 oder 7 oder § 9 Absatz 2 Satz 1 oder Satz 2 keine Mund-Nasenbedeckung trägt und keine Ausnahme nach § 3 Absatz 1 Nummer 3, Nummer 5 Buchstabe c oder d, Nummer 7 oder Absatz 2 oder § 9 Absatz 2 Satz 3 vorliegt,
+
+         1. entgegen § 3 Absatz 1 Nummer 1 bis 5 oder 7 oder § 9 Absatz 1 Nummer 1 keine Mund-Nasenbedeckung trägt und keine Ausnahme nach § 3 Absatz 1 Nummer 3, Nummer 5 Buchstabe c, d oder e, Nummer 7 oder Absatz 2 oder § 9 Absatz 1 Nummer 1 vorliegt,
          1. entgegen § 5 Absatz 4 Satz 1 Einrichtungen, Betriebe und Angebote ohne Hygienekonzept öffnet, betreibt oder durchführt oder das Hygienekonzept nicht einhält,
          1. entgegen § 5 Absatz 4 Satz 3 keinen Ansprechpartner vor Ort festlegt,
          1. entgegen § 5 Absatz 4 Satz 3 die Kontaktbeschränkungen, Abstandsregelungen oder die Pflicht zum Tragen einer Mund-Nasenbedeckung nicht durchsetzt,
@@ -217,11 +224,11 @@ Die Anzeigepflicht besteht auch, wenn die Saisonarbeitskräfte während ihres Au
 
 ## § 11 Inkrafttreten, Außerkrafttreten
 
- 1. Diese Verordnung tritt am 2. November 2020 in Kraft.
-    Gleichzeitig tritt die Sächsische Corona-Schutz-Verordnung vom 21. Oktober 2020 (SächsGVBl. S. 546), außer Kraft.
+ 1. Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+    Gleichzeitig tritt die Sächsische Corona-Schutz-Verordnung vom 30. Oktober 2020 (SächsGVBl. S. 557), außer Kraft.
  1. Diese Verordnung tritt mit Ablauf des 30. November 2020 außer Kraft.
 
-Dresden, den 30. Oktober 2020
+Dresden, den 10. November 2020
 
 Die Staatsministerin für Soziales und Gesellschaftlichen Zusammenhalt \
 Petra Köpping
