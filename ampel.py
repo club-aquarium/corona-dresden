@@ -35,13 +35,17 @@ def take_screenshots():
 		logging.info("taking screenshot of today's incidence...")
 		day = ampel.screenshot_as_png
 
-		driver.switch_to.frame(ampel)
-		inzidenz = driver.find_element_by_xpath('//*[text()="Wochenverlauf"]')
-		inzidenz.click()
+		week = None
+		try:
+			driver.switch_to.frame(ampel)
+			inzidenz = driver.find_element_by_xpath('//*[text()="Wochenverlauf"]')
+			inzidenz.click()
 
-		driver.switch_to.default_content()
-		logging.info("taking screenshot week's incidence...")
-		week = ampel.screenshot_as_png
+			driver.switch_to.default_content()
+			logging.info("taking screenshot week's incidence...")
+			week = ampel.screenshot_as_png
+		except:
+			logging.exception("cannot take screenshot of week's incidence")
 	finally:
 		driver.close()
 	return (day, week)
@@ -61,6 +65,9 @@ def compare_images(old_name, new_data):
 
 def write_changed_images(*imgs):
 	for name, new_data in imgs:
+		if new_data is None:
+			logging.warning("skipping %s...", name)
+			continue
 		score = compare_images(name, new_data)
 		logging.info("%s's SSIM: %s", name, score)
 		if score < 0.99339:
