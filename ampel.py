@@ -8,6 +8,7 @@ import time
 import cv2
 import numpy
 from selenium import webdriver
+from selenium.common.exceptions import NoSuchElementException
 from skimage.metrics import structural_similarity
 
 def init_log(logfile):
@@ -20,6 +21,20 @@ def init_log(logfile):
 		finally:
 			os.close(fd)
 
+def click_week(driver):
+	try:
+		btn = driver.find_element_by_xpath('//*[text()="Wochenverlauf")]')
+		btn.click()
+		return
+	except NoSuchElementException:
+		pass
+	for iframe in driver.find_elements_by_tag_name('iframe'):
+		driver.switch_to.frame(iframe)
+		try:
+			click_week(driver)
+		finally:
+			driver.switch_to.parent_frame()
+
 def take_screenshots():
 	options = webdriver.firefox.options.Options()
 	options.headless = True
@@ -27,7 +42,7 @@ def take_screenshots():
 	try:
 		logging.info('loading Corona-Ampel...')
 		driver.get('https://www.dresden.de/de/leben/gesundheit/hygiene/infektionsschutz/corona.php')
-		ampel = driver.find_element_by_xpath('//*[text()="Fallzahlen (Corona-Dashboard)"]')
+		ampel = driver.find_element_by_xpath('//*[text()="Fallzahlen (Dashboards)"]')
 		ampel.click()
 		ampel = ampel.find_element_by_xpath('../../..//iframe')
 
@@ -38,11 +53,10 @@ def take_screenshots():
 		week = None
 		try:
 			driver.switch_to.frame(ampel)
-			inzidenz = driver.find_element_by_xpath('//*[text()="Wochenverlauf"]')
-			inzidenz.click()
+			click_week(driver)
 
 			driver.switch_to.default_content()
-			logging.info("taking screenshot week's incidence...")
+			logging.info("taking screenshot of week's incidence...")
 			week = ampel.screenshot_as_png
 		except:
 			logging.exception("cannot take screenshot of week's incidence")
