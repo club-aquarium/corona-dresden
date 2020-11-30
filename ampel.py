@@ -23,7 +23,7 @@ def init_log(logfile):
 
 def click_week(driver):
 	try:
-		btn = driver.find_element_by_xpath('//*[text()="Wochenverlauf")]')
+		btn = driver.find_element_by_xpath('//*[text()="Wochenverlauf"]')
 		btn.click()
 		return
 	except NoSuchElementException:
