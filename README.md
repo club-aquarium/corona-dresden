@@ -2,6 +2,7 @@
 
 regelmäßige Screenshots der [Dresdner Corona-Ampel](https://www.dresden.de/de/leben/gesundheit/hygiene/infektionsschutz/corona.php)
 
-![Tagesinzidenz](https://github.com/club-aquarium/corona-dresden/raw/ampel/inzidenz.png)
-
-![7-Tage-Inzidenz](https://github.com/club-aquarium/corona-dresden/raw/ampel/7-tage.png)
+| RKI | Dresden |
+| --- | ------- |
+| ![Heute RKI](https://github.com/club-aquarium/corona-dresden/raw/ampel/Heute%20RKI.png) | ![Heute](https://github.com/club-aquarium/corona-dresden/raw/ampel/Heute.png) |
+| ![Wochenverlauf RKI](https://github.com/club-aquarium/corona-dresden/raw/ampel/Wochenverlauf%20RKI.png) | ![Wochenverlauf](https://github.com/club-aquarium/corona-dresden/raw/ampel/Wochenverlauf.png) |
