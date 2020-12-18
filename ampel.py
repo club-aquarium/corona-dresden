@@ -21,30 +21,17 @@ def init_log(logfile):
 		finally:
 			os.close(fd)
 
-def enter_lowest_iframe(driver, frame):
-	driver.switch_to.frame(frame)
-	try:
-		while True:
-			iframe = driver.find_element_by_tag_name('iframe')
-			driver.switch_to.frame(iframe)
-	except NoSuchElementException:
-		pass
-
 def take_screenshots():
 	options = webdriver.firefox.options.Options()
 	options.headless = True
 	driver = webdriver.Firefox(options=options)
 	try:
 		logging.info('loading Corona-Ampel...')
-		driver.get('https://www.dresden.de/de/leben/gesundheit/hygiene/infektionsschutz/corona.php')
-		ampel = driver.find_element_by_xpath('//*[text()="Fallzahlen (Dashboards)"]')
-		ampel.click()
-		ampel = ampel.find_element_by_xpath('../../..//iframe')
-
+		driver.get('https://experience.arcgis.com/experience/d2386f3214c1451c81b242be69bb3d50')
 		time.sleep(15)
 
 		# find ampel tab-bar
-		enter_lowest_iframe(driver, ampel)
+		driver.switch_to.frame(driver.find_element_by_tag_name('iframe'))
 		try:
 			tabbar = driver.find_element_by_xpath('''
 				//*[text()="Heute RKI"]
@@ -56,7 +43,7 @@ def take_screenshots():
 
 		for _ in range(4):
 			# get current caption
-			enter_lowest_iframe(driver, ampel)
+			driver.switch_to.frame(driver.find_element_by_tag_name('iframe'))
 			try:
 				caption = tabbar.find_element_by_xpath('./*[2]')
 				caption = caption.get_attribute('textContent')
@@ -67,10 +54,10 @@ def take_screenshots():
 
 			# take screenshot
 			logging.info('taking screenshot of %r...', caption)
-			yield (filename, ampel.screenshot_as_png)
+			yield (filename, driver.get_screenshot_as_png())
 
 			# click arrow right
-			enter_lowest_iframe(driver, ampel)
+			driver.switch_to.frame(driver.find_element_by_tag_name('iframe'))
 			try:
 				right_btn = tabbar.find_element_by_xpath('./*[last()]')
 				right_btn.click()
@@ -85,6 +72,9 @@ def compare_images(old_name, new_data):
 	old_img = cv2.imread(old_name)
 	new_img = numpy.frombuffer(new_data, dtype=numpy.uint8)
 	new_img = cv2.imdecode(new_img, cv2.IMREAD_UNCHANGED)
+
+	if new_img.shape != old_img.shape:
+		return -1
 
 	old_img = cv2.cvtColor(old_img, cv2.COLOR_BGR2GRAY)
 	new_img = cv2.cvtColor(new_img, cv2.COLOR_BGR2GRAY)
